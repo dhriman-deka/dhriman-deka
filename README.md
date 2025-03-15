@@ -75,7 +75,7 @@ AI-powered mental health counseling assistant that provides supportive responses
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhriman-deka&theme=radical" alt="GitHub Streak Stats" />
 </div>
 
 ## 🤝 Connect With Me
