@@ -1,58 +1,46 @@
-# Hey! I am Dhriman 🎸💪
+# Hey! I am Dhriman 👋
 
-I'm an ML enthusiast, wannabe instrumental prog guitarist, and rookie powerlifter, passionate about leveraging tech and AI to solve real-world problems. My mission is to make mental health therapy more accessible and use technology for the greater good 🌍.
+I'm an ML enthusiast, a wannabe instrumental prog guitarist, and a rookie powerlifter. I'm passionate about using technology and AI to make mental health therapy more accessible and affordable.
 
-- 🧠 I’m passionate about Machine Learning and AI for social impact
-- 🎯 Currently working on solving expensive mental health therapy challenges
-- 📫 Reach me at [dhrimandekastudy@gmail.com](mailto:dhrimandekastudy@gmail.com)
-- ⚡ Fun fact: I’m a rookie powerlifter aiming to master the deadlift while shredding progressive guitar riffs 🎶
+## 🛠️ Skills
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="Dhriman's GitHub Stats" />
-</p>
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r&logoColor=white)
+![Stata](https://img.shields.io/badge/-Stata-1E90FF?style=flat&logo=stata&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)
+![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![Langflow](https://img.shields.io/badge/-Langflow-FF6F00?style=flat)
+![Langchain](https://img.shields.io/badge/-Langchain-FF6F00?style=flat)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Colab](https://img.shields.io/badge/-Colab-F9AB00?style=flat&logo=google-colab&logoColor=white)
 
-## 🛠️ Skills & Tools
-- **Languages**: Python 🐍, JavaScript ⚡, R 📊, Stata, HTML 🌐, CSS 🎨, TypeScript
-- **Frameworks & Libraries**: Django, Flask, Streamlit, LangFlow, LangChain
-- **Tools**: Visual Studio Code, Cursor, Google Colab
-- **Setup**: I code in a dark-themed environment 🌙 with VS Code and Colab
+## 📌 Projects
 
-## 📌 Pinned Projects
-Here are some projects I’m proud of (you can replace these with your actual projects):
+- [Project 1](link) - Description
+- [Project 2](link) - Description
 
-- **[MentalHealth-AI](link-to-repo)**  
-  A machine learning project to provide affordable mental health support using AI-driven chatbots and sentiment analysis.  
-  *Technologies*: Python, LangChain, Streamlit ⭐ 5
-
-- **[Guitar-Tab-Generator](link-to-repo)**  
-  A web app that generates instrumental prog guitar tabs using JavaScript and machine learning.  
-  *Technologies*: JavaScript, Python ⭐ 3
-
-- **[PowerLift-Tracker](link-to-repo)**  
-  A Django-based app to track powerlifting progress and suggest workout plans.  
-  *Technologies*: Python, Django, Tailwind CSS ⭐ 2
-
-- **[DataViz-Dashboard](link-to-repo)**  
-  An interactive dashboard for visualizing mental health data using R and Streamlit.  
-  *Technologies*: R, Streamlit ⭐ 4
+> **Note:** Add your own projects with links and descriptions.
 
 ## 🌐 Get in Touch
-- [Portfolio](https://dhriman-portfolio.vercel.app/) 🌐
-- [LinkedIn](https://www.linkedin.com/in/dhriman-d-b57b76179/) 🔗
-- [Email](mailto:dhrimandekastudy@gmail.com) 📧
 
-## 💻 My Tech Profiles
-- [Hugging Face](https://huggingface.co/yourusername) 🤗
-- [Kaggle](https://www.kaggle.com/yourusername) 📈
+- 📫 Email: [dhrimandekastudy@gmail.com](mailto:dhrimandekastudy@gmail.com)
+- 💼 LinkedIn: [Dhriman D](https://www.linkedin.com/in/dhriman-d-b57b76179/)
+- 🌐 Portfolio: [dhriman-portfolio.vercel.app](https://dhriman-portfolio.vercel.app/)
 
-## 🏆 Achievements
-- 🥇 Aspiring to contribute to open-source AI for mental health projects
-- 💪 Rookie powerlifter working on my first 300lb deadlift
+## 📈 GitHub Stats
 
-## 🎨 Design Preferences
-I love a sleek **dark theme** 🌙 with pops of color for emphasis, and I sprinkle in emojis to keep things lively! 🚀
+![Dhriman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
 
----
-<p align="center">
-  <i>Let’s build tech for good together! 🌟</i>
-</p>
+> **Note:** Replace `yourusername` with your actual GitHub username.
+
+## 🎸 Interests
+
+- 🤖 Machine Learning
+- 🎵 Instrumental Prog Guitar
+- 💪 Powerlifting
+- 🧠 Mental Health Advocacy
