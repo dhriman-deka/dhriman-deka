@@ -1,70 +1,58 @@
-<p align="center"> <img src="https://your-banner-image-link" alt="Dhriman's Wild Banner" width="100%"/> </p>
-🌟 HEY, WORLD! I’M DHRIMAN 🎸💪
-"Shredding code, riffs, and limits: AI for mental health and beyond! 🌍🔥"
+# Hey! I am Dhriman 🎸💪
 
-I’m an ML wizard, a prog guitar shredder, and a powerlifting beast-in-training, obsessed with using tech and AI to tackle real-world chaos. My mission? Smash the barriers to mental health therapy and wield technology like a double-neck guitar for the greater good! 🎶💻
+I'm an ML enthusiast, wannabe instrumental prog guitarist, and rookie powerlifter, passionate about leveraging tech and AI to solve real-world problems. My mission is to make mental health therapy more accessible and use technology for the greater good 🌍.
 
-🧠 Fueled by: Machine Learning & AI for epic social impact
-🎯 Current Quest: Slaying the high-cost mental health therapy dragon
-📬 Ping Me: dhrimandekastudy@gmail.com
-⚡ Random Awesomeness: I’m deadlifting my way to 300lbs while riffing progressive madness! 💪🎸
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide=contribs,prs&custom_title=Dhriman%27s%20Code%20Shredder%20Stats" alt="Dhriman's GitHub Stats" /> </p>
-🛠️ SKILLS & ARSENAL
-Unleashing my tech powers with style!
+- 🧠 I’m passionate about Machine Learning and AI for social impact
+- 🎯 Currently working on solving expensive mental health therapy challenges
+- 📫 Reach me at [dhrimandekastudy@gmail.com](mailto:dhrimandekastudy@gmail.com)
+- ⚡ Fun fact: I’m a rookie powerlifter aiming to master the deadlift while shredding progressive guitar riffs 🎶
 
-Languages:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark" alt="Dhriman's GitHub Stats" />
+</p>
 
+## 🛠️ Skills & Tools
+- **Languages**: Python 🐍, JavaScript ⚡, R 📊, Stata, HTML 🌐, CSS 🎨, TypeScript
+- **Frameworks & Libraries**: Django, Flask, Streamlit, LangFlow, LangChain
+- **Tools**: Visual Studio Code, Cursor, Google Colab
+- **Setup**: I code in a dark-themed environment 🌙 with VS Code and Colab
 
+## 📌 Pinned Projects
+Here are some projects I’m proud of (you can replace these with your actual projects):
 
+- **[MentalHealth-AI](link-to-repo)**  
+  A machine learning project to provide affordable mental health support using AI-driven chatbots and sentiment analysis.  
+  *Technologies*: Python, LangChain, Streamlit ⭐ 5
 
+- **[Guitar-Tab-Generator](link-to-repo)**  
+  A web app that generates instrumental prog guitar tabs using JavaScript and machine learning.  
+  *Technologies*: JavaScript, Python ⭐ 3
 
+- **[PowerLift-Tracker](link-to-repo)**  
+  A Django-based app to track powerlifting progress and suggest workout plans.  
+  *Technologies*: Python, Django, Tailwind CSS ⭐ 2
 
+- **[DataViz-Dashboard](link-to-repo)**  
+  An interactive dashboard for visualizing mental health data using R and Streamlit.  
+  *Technologies*: R, Streamlit ⭐ 4
 
-Frameworks & Libraries: Django 🤖, Flask 🍶, Streamlit 🌊, LangFlow 🌈, LangChain 🔗
-Tools: Visual Studio Code 🖥️, Cursor 🎯, Google Colab 🚀
-Vibe: Coding in a dark-themed dungeon 🌙 with neon pops and epic focus
-Skill Levels (because visuals are king!):
+## 🌐 Get in Touch
+- [Portfolio](https://dhriman-portfolio.vercel.app/) 🌐
+- [LinkedIn](https://www.linkedin.com/in/dhriman-d-b57b76179/) 🔗
+- [Email](mailto:dhrimandekastudy@gmail.com) 📧
 
-Python:
-JavaScript:
-R:
-📌 PINNED PROJECTS
-Behold my creations—forged in code and chaos!
+## 💻 My Tech Profiles
+- [Hugging Face](https://huggingface.co/yourusername) 🤗
+- [Kaggle](https://www.kaggle.com/yourusername) 📈
 
-MentalHealth-AI
-An AI-powered beast delivering affordable mental health support with chatbots and sentiment magic.
-Tech Stack: Python 🐍, LangChain 🔗, Streamlit 🌊 ⭐ 5
-Guitar-Tab-Generator
-A web app that spits out prog guitar tabs like a riff machine on steroids.
-Tech Stack: JavaScript ⚡, Python 🐍 ⭐ 3
-PowerLift-Tracker
-A Django juggernaut tracking my powerlifting gains and dishing out workout plans.
-Tech Stack: Python 🐍, Django 🤖, Tailwind CSS 🎨 ⭐ 2
-DataViz-Dashboard
-A slick dashboard turning mental health data into visual poetry with R and Streamlit.
-Tech Stack: R 📊, Streamlit 🌊 ⭐ 4
-🎸 SHRED ZONE
-Where code meets chords!
+## 🏆 Achievements
+- 🥇 Aspiring to contribute to open-source AI for mental health projects
+- 💪 Rookie powerlifter working on my first 300lb deadlift
 
-Jam to my latest guitar riff 🎶
-Bonus: Picture me shredding with this bad boy: <p align="center"> <img src="https://media.giphy.com/media/3o7TKz2b3wyk7GLeqQ/giphy.gif" alt="Guitar Shredding" width="200"/> </p>
-🌐 LET’S CONNECT
-Portfolio 🌟
-LinkedIn 🔗
-Email 📧
-💻 TECH HANGOUTS
-Hugging Face 🤗
-Kaggle 📈
-🏆 VICTORY LAP
-🥇 Dreaming big: Open-source AI for mental health domination
-💪 Powerlifting rookie chasing a 300lb deadlift PR
-🎨 MY STYLE
-I live for dark themes 🌙 with electrifying color splashes—think neon vibes and emoji explosions! 🚀🎨
+## 🎨 Design Preferences
+I love a sleek **dark theme** 🌙 with pops of color for emphasis, and I sprinkle in emojis to keep things lively! 🚀
 
-<p align="center"> <b><i>Let’s jam on code, riffs, or reps! Hit me up at [email](mailto:dhrimandekastudy@gmail.com) or [LinkedIn](https://www.linkedin.com/in/dhriman-d-b57b76179/)! 🌟</i></b> </p>
-Pro Tips to Max Out the Wildness
-Banner: Whip up a custom header in Canva or Figma with your name, a tagline, and some guitar/ML flair. Host it on GitHub or Imgur.
-Music: Drop a SoundCloud or YouTube link in the Shred Zone—let ‘em hear your soul!
-Stats: Tweak the GitHub Stats theme (try dracula or radical) for extra edge.
-Badges: Grab more at Shields.io—go overboard with flair!
-This README.md is now a full-on experience—vibrant, bold, and dripping with YOU. Ready to blow minds? Let’s roll! 🎸💻🔥
+---
+<p align="center">
+  <i>Let’s build tech for good together! 🌟</i>
+</p>
