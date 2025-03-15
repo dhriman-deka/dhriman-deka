@@ -74,8 +74,41 @@ AI-powered mental health counseling assistant that provides supportive responses
 
 ## 📈 GitHub Stats
 
+## 📊 GitHub Stats
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dhriman-deka&theme=radical" alt="GitHub Streak Stats" />
+  
+  <a href="https://github.com/dhriman-deka">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dhriman-deka&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  </a>
+  
+  <a href="https://github.com/dhriman-deka">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhriman-deka&layout=compact&langs_count=7&theme=tokyonight"/>
+  </a>
+  
+  <br/>
+  
+  <a href="https://github.com/dhriman-deka">
+    <img alt="GitHub Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=dhriman-deka&theme=tokyonight&hide_border=true"/>
+  </a>
+  
+  <br/>
+  
+  <!-- Activity Graph -->
+  <a href="https://github.com/dhriman-deka">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=dhriman-deka&theme=tokyo-night&hide_border=true"/>
+  </a>
+  
+  <!-- Profile Trophy -->
+  <a href="https://github.com/dhriman-deka">
+    <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=dhriman-deka&theme=tokyonight&no-frame=true&row=1&column=7"/>
+  </a>
+  
+  <br/>
+  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=dhriman-deka&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views"/>
+
 </div>
 
 ## 🤝 Connect With Me
